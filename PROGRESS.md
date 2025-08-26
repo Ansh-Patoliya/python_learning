@@ -21,4 +21,15 @@
 - Difference between string concatenation and numeric addition
 - Using `input()`  to read multiple inputs
 
+## 🗓️ Day 2 – Python Basics (Aug 26, 2025)
+
+### ✅ Concepts Learned
+- Variables and data types: `int`, `float`, `str` , `bool` , `complex`'
+- Type conversion: `int()`, `float()`, `str()` , `bool()` , `complex()`
+- Conditional statements: `if`, `elif`, `else`
+- Comparison operators: `==`, `!=`, `<`, `>`, `<=`, `>=`
+- Logical operators: `and`, `or`, `not`
+- Membership and identity operators: `in`, `not in`, `is`, `is not`
+- loops: `for`, `while`
+- Control statements: `break`, `continue`, `pass`
 ---

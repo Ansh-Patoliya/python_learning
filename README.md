@@ -18,15 +18,15 @@ Hey there! Welcome to my Python learning adventure. I'm documenting my journey f
 
 <a name="about"></a>
 ## 🎯 About
-I started this Python learning journey on August 7th, 2025, with a goal: build solid Python knowledge and get really good at it. This repo is my learning playground, filled with code examples, personal notes, and small projects. My goal is to build strong Python fundamentals while sharing my progress and creating a resource for beginners like me.
-Follow my progress and connect with me on Linkdin @Ansh Patoliya where I share updates and learning moments.
+I started this Python learning journey on August 25th, 2025, with a goal: build solid Python knowledge and get really good at it. This repo is my learning playground, filled with code examples, personal notes, and small projects. My goal is to build strong Python fundamentals while sharing my progress and creating a resource for beginners like me.
+Follow my progress and connect with me on LinkedIn @Ansh Patoliya where I share updates and learning moments.
 
 ---
 
 <a name="status"></a>
 ## 📅 Status
 
-- **Current Day:** Day 1
+- **Current Day:** Day 2
 - **Started On:** August 25, 2025  
 - **Goal:** Build a solid foundation in Python through hands-on practice and projects.
 
@@ -70,4 +70,4 @@ Feel free to experiment with anything you find interesting.
 <a name="feedback"></a>
 ## 💬 Feedback
 
-Have thoughts or suggestions? I'd love to hear from you! Open an issue here or connect with me on Linkdin @Ansh Patoliya with #PythonLearning.
+Have thoughts or suggestions? I'd love to hear from you! Open an issue here or connect with me on LinkedIn @Ansh Patoliya with #PythonLearning.
