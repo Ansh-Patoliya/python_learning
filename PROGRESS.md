@@ -32,4 +32,10 @@
 - Membership and identity operators: `in`, `not in`, `is`, `is not`
 - loops: `for`, `while`
 - Control statements: `break`, `continue`, `pass`
+
+## 🗓️ Day 3 – python Basics (Aug 27, 2025)
+
+### ✅ Concepts Learned
+- String manipulation: indexing, slicing, methods like `upper()`, `lower()`, `find()`, `replace()`, `split()`, `join()`, `strip()`, `startswith()`, `endswith()`, `len()`, `count()`, `format()`, `isalpha()`, `isdigit()`, `islower()`, `isupper()` , `isalnum()`
+- Escape sequences: `\n`, `\t`, `\\`, `\'`, `\"`
 ---
