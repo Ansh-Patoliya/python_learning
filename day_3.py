@@ -138,6 +138,10 @@ print(text.center(20,'*'))  # ******hello******* (balanced padding)  # If width 
 print(text.ljust(20,'*'))   # hello*************** (right padding)
 print(text.rjust(20,'*'))   # ***************hello (left padding)
 print(text.zfill(8))        # 000hello (numeric-style padding)  # Keeps sign ahead of zeros if present.
-# For richer formatting prefer f-strings with format spec (e.g. f"{text:^20}").
 
-# Potential next topics: f-strings formatting specifiers, unicode normalization (unicodedata), regex, translation tables, performance profiling (timeit).
+text="I am learning python. I am enjoying it."
+print(text)
+# find vs index: index() raises ValueError if substring absent; find() returns -1
+print(text.index("am"))          # First occurrence index (raises ValueError if not found)
+# print(text.index("hello"))      # Uncommenting this line would raise ValueError
+# print(text.find("hello"))       # This would return -1 since "hello" is not in the text
