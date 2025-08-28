@@ -39,3 +39,13 @@
 - String manipulation: indexing, slicing, methods like `upper()`, `lower()`, `find()`, `replace()`, `split()`, `join()`, `strip()`, `startswith()`, `endswith()`, `len()`, `count()`, `format()`, `isalpha()`, `isdigit()`, `islower()`, `isupper()` , `isalnum()`
 - Escape sequences: `\n`, `\t`, `\\`, `\'`, `\"`
 ---
+
+## 🗓️ Day 4 – Data Structures (Aug 28, 2025)
+
+### ✅ Concepts Learned
+
+- Lists: creation, indexing, slicing, methods like `append()`, `extend()`, `insert()`, `remove()`, `pop()`, `sort()`, `reverse()`, `len()`, `count()`, `index()`, `clear()`, `copy()`, 
+- tuples: creation, indexing, slicing, immutability
+- Dictionaries: creation, accessing values, adding/removing key-value pairs, methods like `keys()`, `values()`, `items()`, `get()`, `update()` , `pop()`, `popitem()`, `clear()`, `copy()`, `len()`
+- Sets: creation, adding/removing elements, methods like `add()`, `remove()`, `discard()`, `union()`, `intersection()`, `difference()`, `symmetric_difference()`, `len()`, `clear()`, `copy()`
+---
