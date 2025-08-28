@@ -279,6 +279,76 @@ SETS OVERVIEW:
 - Dynamic: Size can change during runtime
 - Use Cases: Removing duplicates, membership testing, mathematical set operations
 """
+my_set={1,3,5,8,0,5,2}
+print(my_set) # duplicate 5 will be removed
+my_set.add(4) # add element
+print(my_set)
+
+new_set={6,9,3,1} # another set
+print(f"before updated set = {my_set}")
+my_set.update(new_set) # update set by adding elements from another set
+print(f"after updated set = {my_set}")
+
+my_set.remove(0) # raise error if element not found
+print(f"after remove set = {my_set}")
+my_set.discard(10) # not raise error if element not found
+print(f"after discard set = {my_set}")
+popped_ele=my_set.pop() # remove and return an arbitrary element
+print(f"after poped element = {popped_ele} , set = {my_set}")
+my_set.clear() # remove all elements
+print(f"after clear set = {my_set}")
+
+a={1,2,3}
+b={3,4,5}
+print(f"set a = {a} \n set b = {b}")
+
+union_set=a.union(b) # union of two sets
+print(f"union set(method) = {union_set}")
+union_set1=a|b # union using operator
+print(f"union set(operator) = {union_set1}")
+intersection_set=a.intersection(b) # intersection of two sets
+print(f"intersection set(method) = {intersection_set}")
+intersection_set1=a&b # intersection using operator
+print(f"intersection set(operator) = {intersection_set1}")
+difference_set=a.difference(b) # difference of two sets
+print(f"difference set(method) = {difference_set}")
+difference_set1=a-b # difference using operator
+print(f"difference set(operator) = {difference_set1}")
+sym_diff_set=a.symmetric_difference(b) # symmetric difference of two sets
+print(f"symmetric difference set(method) = {sym_diff_set}")
+sym_diff_set1=a^b # symmetric difference using operator
+print(f"symmetric difference set(operator) = {sym_diff_set1}")
+
+# update set methods
+a={1,2,3}
+b={3,4,5}
+a.difference_update(b) # remove elements of b from a
+print(f"after difference update set a = {a}")
+
+a={1,2,3}
+b={3,4,5}
+a.intersection_update(b) # keep only elements of a also in b
+print(f"after intersection update set a = {a}")
+
+a={1,2,3}
+b={3,4,5}
+a.symmetric_difference_update(b) # elements in either a or b but not in both
+print(f"after symmetric difference update set a = {a}")
+
+A = {1, 2, 3, 4, 5}  # Superset
+B = {3, 4}           # Subset
+
+# 'group_A' ane 'group_B' ma koi common nathi
+group_A = {1, 2, 3}
+group_B = {4, 5, 6}
+print(f"Are A and B disjoint? {group_A.isdisjoint(group_B)}")
+
+# 'group_C' ma '3' common chhe
+group_C = {3, 7, 8}
+print(f"Are A and C disjoint? {group_A.isdisjoint(group_C)}")
+
+print(f"Shu B, A no subset chhe? {B.issubset(A)}")
+print(f"Shu A, B no superset chhe? {A.issuperset(B)}")
 
 '''
     # set all important methods
