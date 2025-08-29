@@ -49,3 +49,13 @@
 - Dictionaries: creation, accessing values, adding/removing key-value pairs, methods like `keys()`, `values()`, `items()`, `get()`, `update()` , `pop()`, `popitem()`, `clear()`, `copy()`, `len()`
 - Sets: creation, adding/removing elements, methods like `add()`, `remove()`, `discard()`, `union()`, `intersection()`, `difference()`, `symmetric_difference()`, `len()`, `clear()`, `copy()`
 ---
+
+## 🗓️ Day 5 – Functions (Aug 29, 2025)
+
+### ✅ Concepts Learned
+- Type casting between data structures (list, tuple, dict, set)
+- Function definition using `def`
+- Function parameters and arguments (positional, keyword, default, variable-length)
+- Return values using `return`
+- Scope of variables (local vs global)
+- Recursion

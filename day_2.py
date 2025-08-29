@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
 """
 Day 2: Python Data Types and Type Casting Learning Module
 
