@@ -61,10 +61,13 @@
 - Recursion
 ---
 
-## 🗓️ Day 6 – File I/O (Aug 30, 2025)
+## 🗓️ Day 6 – File I/O and Exception Handling (Aug 30, 2025)
 
 ### ✅ Concepts Learned
 - File operations: `open()`, `read()`, `readline()`, `readlines()`, `write()`, `writelines()`, `close()`
 - File modes: `'r'`, `'w'`, `'a'`
 - Using `with` statement for file handling
+- Exception handling using `try`, `except`, `else`, `finally`
+- Raising exceptions with `raise`
+- Creating custom exceptions by defining new exception classes
 ---
