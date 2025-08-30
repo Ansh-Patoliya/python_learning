@@ -59,3 +59,12 @@
 - Return values using `return`
 - Scope of variables (local vs global)
 - Recursion
+---
+
+## 🗓️ Day 6 – File I/O (Aug 30, 2025)
+
+### ✅ Concepts Learned
+- File operations: `open()`, `read()`, `readline()`, `readlines()`, `write()`, `writelines()`, `close()`
+- File modes: `'r'`, `'w'`, `'a'`
+- Using `with` statement for file handling
+---
