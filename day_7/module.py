@@ -161,16 +161,16 @@ functions to explore:
 '''
 
 print(f"Current working directory = {os.getcwd()}") # C:\Users\ansh\PycharmProjects\python_learning\day_7
-print(f"Contents of current directory = {os.listdir()}") # ['day_7.py', 'module_demo.py', 'some_file.txt', '__init__.py', '__pycache__']
+print(f"Contents of current directory = {os.listdir()}") # ['module.py', 'module_demo.py', 'some_file.txt', '__init__.py', '__pycache__']
 os.mkdir("test_dir")  # create a new directory named 'test_dir'
 os.chdir("test_dir")  # change into the new directory
 print(f"Changed working directory = {os.getcwd()}") # C:\Users\ansh\PycharmProjects\python_learning\day_7\test_dir
 os.chdir("..")  # go back to parent directory (.. means "up one level")
 print(f"Back to parent directory = {os.getcwd()}") # C:\Users\ansh\PycharmProjects\python_learning\day_7
 os.rmdir("test_dir")  # remove the empty directory
-print(f"Contents after removing test_dir = {os.listdir()}") # ['day_7.py', 'module_demo.py', 'some_file.txt', '__init__.py', '__pycache__']
+print(f"Contents after removing test_dir = {os.listdir()}") # ['module.py', 'module_demo.py', 'some_file.txt', '__init__.py', '__pycache__']
 os.remove("some_file.txt")  # delete a file named 'some_file.txt'
-print(f"Contents after removing some_file.txt = {os.listdir()}") # ['day_7.py', 'module_demo.py', '__init__.py', '__pycache__']
+print(f"Contents after removing some_file.txt = {os.listdir()}") # ['module.py', 'module_demo.py', '__init__.py', '__pycache__']
 
 # Note: Be careful with os.remove() and os.rmdir() as they permanently delete files/directories.
 # Always ensure the file/directory exists and you have permission to delete it.
