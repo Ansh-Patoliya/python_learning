@@ -23,14 +23,14 @@ Purpose: Understanding file operations and error handling in Python
 # =============================================================================
 
 # Creating and writing to a new file in write mode
-with open("Demo.txt","w") as f:
+with open("../Demo.txt", "w") as f:
     if f.writable():
         f.writelines(["hi , ", "my name is ansh.\n", "and your?"])
     else:
         print("file is not writable")
 
 # Appending additional content to the existing file
-with open("Demo.txt", "a") as f:
+with open("../Demo.txt", "a") as f:
     f.write("hi,my name is ansh".title())
     f.write("\nHow are you?")
     print("good", file=f)
@@ -41,7 +41,7 @@ with open("Demo.txt", "a") as f:
 # =============================================================================
 
 # Reading the entire file content at once
-with open("Demo.txt","r") as f:
+with open("../Demo.txt", "r") as f:
     if f.readable():
         print(f.read())
     else :
@@ -49,7 +49,7 @@ with open("Demo.txt","r") as f:
     f.close()
 
 # Demonstrating file pointer positioning with tell() and partial reading
-with open("Demo.txt","r") as f:
+with open("../Demo.txt", "r") as f:
     if f.readable():
         print(f.tell())  # Current file pointer position
         print(f.read(2))  # Read only 2 characters
@@ -59,7 +59,7 @@ with open("Demo.txt","r") as f:
     f.close()
 
 # Reading file line by line using readline() method
-with open("Demo.txt","r") as f:
+with open("../Demo.txt", "r") as f:
     line1=f.readline()
     line2=f.readline()
     line3=f.readline()
@@ -69,7 +69,7 @@ with open("Demo.txt","r") as f:
     f.close()
 
 # Iterating through file lines and tracking file pointer position
-with open("Demo.txt","r") as f:
+with open("../Demo.txt", "r") as f:
     print(f.tell())  # Initial position
     for line in f:
         print(f"line = {line.strip()}")  # Remove newline characters
@@ -77,12 +77,12 @@ with open("Demo.txt","r") as f:
     f.close()
 
 # Reading all lines into a list using readlines()
-with open("Demo.txt","r") as f:
+with open("../Demo.txt", "r") as f:
     lines=f.readlines()
     print(lines)
 
 # Demonstrating file seeking - reading same content multiple times
-with open("Demo.txt","r") as f:
+with open("../Demo.txt", "r") as f:
     for i in range(0,11):
         print(f.read(4),end="")  # Read 4 characters
         f.seek(0)  # Reset file pointer to beginning

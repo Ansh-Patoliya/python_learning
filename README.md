@@ -26,7 +26,7 @@ Follow my progress and connect with me on LinkedIn @Ansh Patoliya where I share 
 <a name="status"></a>
 ## 📅 Status
 
-- **Current Day:** Day 6
+- **Current Day:** Day 7
 - **Started On:** August 25, 2025  
 - **Goal:** Build a solid foundation in Python through hands-on practice and projects.
 
