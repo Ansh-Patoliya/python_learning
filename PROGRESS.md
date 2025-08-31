@@ -72,10 +72,12 @@
 - Creating custom exceptions by defining new exception classes
 ---
 
-## 🗓️ Day 7 – Modules and Packages (Aug 31, 2025)
+## 🗓️ Day 7 – Modules , Packages, and Oops(part 1: basic concepts) (Aug 31, 2025)
 
 ### ✅ Concepts Learned
 - Importing modules using `import` and `from ... import ...`
 - Exploring built-in modules: `math`, `random`, `datetime`, `os`
 - Python OS Module `getcwd()`, `chdir()`, `mkdir()`, `listdir()`, `remove()`,`rmdir()`
+- Creating and using packages
+- Object-Oriented Programming (OOP) concepts: classes, objects, attributes, methods
 ---
