@@ -81,3 +81,10 @@
 - Creating and using packages
 - Object-Oriented Programming (OOP) concepts: classes, objects, attributes, methods
 ---
+
+## 🗓️ Day 8 – Oops(part 2: advanced concepts) (Sep 1, 2025)
+
+### ✅ Concepts Learned
+- Encapsulation (public,private, protected attributes)
+- Inheritance (single, multi-level, hierarchical, multiple,mro, super())
+---
