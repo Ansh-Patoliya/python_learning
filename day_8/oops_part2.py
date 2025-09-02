@@ -103,6 +103,10 @@ emp.show_details()
 🔹 super() Function
     - Used to call parent class constructor or methods.
     - Helps avoid rewriting and supports MRO.
+    
+🔹  Method Overriding
+    - Child class can provide its own implementation of a method defined in the parent class.
+    - Allows dynamic behavior based on the object type.
 '''
 
 
@@ -115,6 +119,9 @@ class Parent:
 class Child(Parent):
     def child(self):
         print("child class method")
+
+    def parent(self):    # Overriding parent class method
+        print("overridden parent class method in child class")
 
 
 p = Parent() # Creating an object of Parent class
@@ -139,6 +146,9 @@ class Parent(GrandParent):
 class Child(Parent):
     def child(self):
         print("child class method")
+
+    def parent(self):     # Overriding parentclass method
+        print("overridden parent class method in child class")
 
 gp=GrandParent()
 p=Parent()
