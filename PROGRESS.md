@@ -99,3 +99,26 @@
 - Abstraction (abstract classes and methods using `abc` module)
 - Magic methods (dunder methods) like `__init__`, `__str__`, `__repr__`, `__add__`, `__len__`, `__eq__`, `__lt__`, etc.
 ---
+
+## Project 
+
+## 🗓️ Day 7 - 10 - Expense Tracker Application (Aug 31 - Sep 3, 2025)
+
+### ✅ Concepts Applied
+- File I/O for data persistence
+- Exception handling for robust user input handling
+- Data structures for managing expenses and categories
+- Functions for modular code
+- User input and output formatting for better user experience
+- Date and time handling using `datetime` module
+- String manipulation for formatting and parsing data
+- Conditional statements and loops for control flow
+- Lists and dictionaries for storing and managing data
+
+### Features Implemented
+- Add Expense
+- View Expenses Date wise
+- Update Expense
+- Delete Expense
+- View Total Expense
+- Search Expense by Category
