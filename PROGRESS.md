@@ -87,4 +87,15 @@
 ### ✅ Concepts Learned
 - Encapsulation (public,private, protected attributes)
 - Inheritance (single, multi-level, hierarchical, multiple,mro, super())
+- Class methods using `@classmethod`
+- Static methods using `@staticmethod`
+- Instance methods
+---
+
+## 🗓️ Day 9 – Oops(part 3: advanced concepts) (Sep 2, 2025)
+
+### ✅ Concepts Learned
+- Polymorphism (method overloading, method overriding)
+- Abstraction (abstract classes and methods using `abc` module)
+- Magic methods (dunder methods) like `__init__`, `__str__`, `__repr__`, `__add__`, `__len__`, `__eq__`, `__lt__`, etc.
 ---
