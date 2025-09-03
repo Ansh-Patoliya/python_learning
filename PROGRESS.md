@@ -100,6 +100,13 @@
 - Magic methods (dunder methods) like `__init__`, `__str__`, `__repr__`, `__add__`, `__len__`, `__eq__`, `__lt__`, etc.
 ---
 
+## 🗓️ Day 10 - Project work (Sep 3, 2025)
+
+- completed the project and polished it.
+- added comments and docstrings for better understanding.
+- tested the project thoroughly to ensure all features work as expected.
+--- 
+
 ## Project 
 
 ## 🗓️ Day 7 - 10 - Expense Tracker Application (Aug 31 - Sep 3, 2025)
