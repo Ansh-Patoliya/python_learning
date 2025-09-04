@@ -26,9 +26,10 @@ Follow my progress and connect with me on LinkedIn @Ansh Patoliya where I share 
 <a name="status"></a>
 ## 📅 Status
 
-- **Current Day:** Day 10 (September 3, 2025)  
-- **Completed Topics:** Basics, Data Structures, Functions, OOP, File I/O, Exception Handling, Modules & Packages  
-- **Ongoing Topic:** Finalizing a small project to apply what I've learned
+- **Current Day:** Day 11 (September 4, 2025)  
+- **Completed Topics:** Basics, Data Structures, Functions, OOP, File I/O, Exception Handling, Modules & Packages
+- **Completed Project:** Expense Tracker Application
+- **Ongoing Topic:** Numpy
 - **Started On:** August 25, 2025  
 - **Goal:** Build a solid foundation in Python through hands-on practice and projects.
 

@@ -128,4 +128,25 @@
 - Update Expense
 - Delete Expense
 - View Total Expense
-- Search Expense by Category
+- Search Expense by Date
+---
+
+## 🗓️ Day 11 - Learning Numpy (Phase 1,Phase 2) (Sep 4, 2025)
+
+### ✅ Concepts Learned
+- Introduction to NumPy and its advantages
+- Phase 1:
+  - Creating NumPy arrays using `np.array()`, `np.zeros()`, `np.ones()`, `np.arange()`, `np.random.random()`
+  - Array attributes: `shape`, `dtype`, `size`, `ndim`
+  - Basic array operations: addition, subtraction, multiplication, division
+  - Reshaping arrays using `reshape()`, `flatten()`, `ravel()`, `transpose()`
+  - difference between `flatten()` and `ravel()`
+  
+- Phase 2:
+    - `Indexing` and `slicing` of arrays
+    - `sorting` arrays using `np.sort()`
+    - `Filtering`(`Boolean Indexing`) arrays without `mask` and with `mask`
+    - `Fancy Indexing` vs. `where()` and conditional selection
+    - `Stacking` arrays using `np.vstack()`, `np.hstack()`,
+    - deleting elements using `np.delete()`
+---  
