@@ -186,17 +186,12 @@
     - `Mathematical Functions` : `np.sum()`, `np.mean()`, `np.min()`, `np.max()`, `np.argmin()`, `np.argmax()` ,
       `np.std()`, `np.var()`, `np.cumsum()`
     
-[//]: # (- Phase 4:)
-
-[//]: # (    - `Universal` Functions : `np.comprod&#40;&#41;`,`np.sqrt&#40;&#41;`, `np.exp&#40;&#41;`, `np.log&#40;&#41;`, `np.sin&#40;&#41;`, `np.cos&#40;&#41;`,)
-
-[//]: # (      `np.tan&#40;&#41;`, `np.arcsin&#40;&#41;`, `np.arccos&#40;&#41;`)
-
-[//]: # (    - `Rounding` functions : `np.round&#40;&#41;`, `np.floor&#40;&#41;`, `)
-
-[//]: # (    - `Statistical Functions` : `np.median&#40;&#41;`, `np.percentile&#40;&#41;`, `np.corrcoef&#40;&#41;`, `np.histogram&#40;&#41;`)
-
-[//]: # (    - `Broadcasting` concept)
+- Phase 4:
+    - `Universal` Functions : `np.comprod()`,`np.sqrt()`, `np.exp()`, `np.log()`, `np.sin()`, `np.cos()`,
+      `np.tan()`, `np.arcsin()`, `np.arccos()`
+    - `Rounding` functions : `np.round()`, `np.floor()`, `np.ceil()`, `np.trunc()`
+    - `Statistical` functions : `np.median()`, `np.percentile()`, `np.corrcoef()`, `np.histogram()`
+    - `Broadcasting` concept
     
 [//]: # (- Phase 5:)
 
