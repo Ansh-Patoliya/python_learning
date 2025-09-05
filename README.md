@@ -26,7 +26,7 @@ Follow my progress and connect with me on LinkedIn @Ansh Patoliya where I share 
 <a name="status"></a>
 ## 📅 Status
 
-- **Current Day:** Day 11 (September 4, 2025)  
+- **Current Day:** Day 12 (September 4, 2025)  
 - **Completed Topics:** Basics, Data Structures, Functions, OOP, File I/O, Exception Handling, Modules & Packages
 - **Completed Project:** Expense Tracker Application
 - **Ongoing Topic:** Numpy
