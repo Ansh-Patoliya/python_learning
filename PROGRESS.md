@@ -180,7 +180,6 @@
 ## 🗓️ Day 12 - Learning Numpy (Phase 3) (Sep 5, 2025)
 
 ### ✅ Concepts Learned
-
 - Phase 3:
     - dataset practice
     - `Mathematical Functions` : `np.sum()`, `np.mean()`, `np.min()`, `np.max()`, `np.argmin()`, `np.argmax()` ,
@@ -192,19 +191,16 @@
     - `Rounding` functions : `np.round()`, `np.floor()`, `np.ceil()`, `np.trunc()`
     - `Statistical` functions : `np.median()`, `np.percentile()`, `np.corrcoef()`, `np.histogram()`
     - `Broadcasting` concept
-    
-[//]: # (- Phase 5:)
-
-[//]: # (    - `Vectorization` concept)
-
-[//]: # (    - `Linear Algebra` operations: `np.dot&#40;&#41;`, `np.cross&#40;&#41;`, `np.linalg.inv&#40;&#41;`, `np.linalg.det&#40;&#41;`, `np.linalg.eig&#40;&#41;`)
-
-[//]: # (    - `Saving` and `Loading` arrays using `np.save&#40;&#41;`, `np.load&#40;&#41;`, `np.savetxt&#40;&#41;`, `np.loadtxt&#40;&#41;`)
-
-[//]: # (    - `Copying` arrays using `np.copy&#40;&#41;`, `view&#40;&#41;`, and understanding deep vs shallow copy)
-
-[//]: # (    - `Iterating` over arrays using `nditer&#40;&#41;`)
-
-[//]: # (    - `Memory Layout` of arrays using `flags` attribute)
-
 ---
+
+## 🗓️ Day 13 - Learning Numpy (Phase 5) (Sep 6, 2025)
+
+### ✅ Concepts Learned
+- Phase 5:
+    - `Vectorization` concept
+    - `Linear Algebra` operations: `np.dot()`, `np.cross()`, `np.linalg.inv()`, `np.linalg.det()`, `np.linalg.eig()`
+    - `Saving` and `Loading` arrays using `np.save()`, `np.load()`, `np.savetxt()`, `np.loadtxt()`
+    - `Copying` arrays using `np.copy()`, `view()`, and understanding deep vs shallow copy
+    - `Iterating` over arrays using `nditer()`
+    - `Memory Layout` of arrays using `flags` attribute
+--- 
