@@ -177,7 +177,7 @@
 
 ---  
 
-## 🗓️ Day 12 - Learning Numpy (Phase 3) (Sep 5, 2025)
+## 🗓️ Day 12 - Learning Numpy (Phase 3,Phase 4) (Sep 5, 2025)
 
 ### ✅ Concepts Learned
 - Phase 3:
