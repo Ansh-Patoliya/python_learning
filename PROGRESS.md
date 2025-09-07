@@ -177,7 +177,7 @@
 
 ---  
 
-## 🗓️ Day 12 - Learning Numpy (Phase 3) (Sep 5, 2025)
+## 🗓️ Day 12 - Learning Numpy (Phase 3,Phase 4) (Sep 5, 2025)
 
 ### ✅ Concepts Learned
 - Phase 3:
@@ -204,13 +204,3 @@
     - `Iterating` over arrays using `nditer()`
     - `Memory Layout` of arrays using `flags` attribute
 --- 
-
-## 🗓️ Day 14 - 15 - Numpy Practice (Sep 7 - 8, 2025)
-
-### ✅ Concepts Applied
-- Solved various problems on NumPy to reinforce learning
-- Practiced array manipulations, mathematical operations, and data analysis tasks using NumPy
-- Worked on small projects to apply NumPy in real-world scenarios
-- Explored NumPy documentation for advanced features and functions
-- Reviewed and optimized code for better performance using NumPy
----
