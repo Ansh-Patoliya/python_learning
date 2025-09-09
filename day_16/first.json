@@ -1,0 +1,9 @@
+{
+    "name": "ansh",
+    "age": 19,
+    "address": {
+        "area": "nikol",
+        "city": "ahmedabad",
+        "pincode": 382350
+    }
+}

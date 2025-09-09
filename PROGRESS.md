@@ -204,3 +204,45 @@
     - `Iterating` over arrays using `nditer()`
     - `Memory Layout` of arrays using `flags` attribute
 ---
+
+## 🗓️ Day 14 - Project: Sales Data Analyzer (Part 1) (Sep 7, 2025)
+
+### ✅ Work Done
+
+- Created project notebook and dataset; generated reproducible 3x12x4 sales array with NumPy
+- Implemented helpers: `get_monthly_sale`, `get_yearly_product_sale`, `get_yearly_total_sale`
+- Core analyses:
+  - Per-product totals and averages across all years
+  - Highest-sales product in 2023; highest total-sales year
+  - Lowest-sales product in 2022; peak laptop month in 2024
+
+---
+
+## 🗓️ Day 15 - Project: Sales Data Analyzer (Part 2) (Sep 8, 2025)
+
+### ✅ Work Done
+
+- Advanced analyses and metrics:
+  - Consistency via standard deviation; growth from 2022→2024 (percentage)
+  - Inter-product correlations; threshold counts (>500) in 2023
+  - 3-period moving averages per product (convolution)
+  - Medians; Q1 2023 top product; lowest total-sales year; per-product ranges
+  - December top product; skewness classification using mean vs median vs std
+- Polished outputs with formatted strings and rounding
+
+---
+
+## 🗓️ Day 16 - JSON and CSV Modules (Sep 9, 2025)
+
+### ✅ Concepts Learned
+- JSON Module:
+    - Understanding JSON format and its uses
+    - Reading JSON data from a file using `json.load()`
+    - Writing JSON data to a file using `json.dump()`
+    - Converting Python objects to JSON strings using `json.dumps()`
+    - Converting JSON strings to Python objects using `json.loads()`
+- CSV Module:
+    - Understanding CSV format and its uses
+    - Reading CSV data from a file using `csv.reader()` and `csv.DictReader()`
+    - Writing CSV data to a file using `csv.writer()` and `csv.DictWriter()`
+---
