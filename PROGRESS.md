@@ -246,3 +246,14 @@
     - Reading CSV data from a file using `csv.reader()` and `csv.DictReader()`
     - Writing CSV data to a file using `csv.writer()` and `csv.DictWriter()`
 ---
+
+## 🗓️ Day 17 - Learning Pandas (Part 1) (Sep 10, 2025)
+
+### ✅ Concepts Learned
+- Introduction to Pandas and its advantages
+- how to read data from CSV file using `pd.read_csv()`, `pd.read_excel()`, `pd.read_json()`
+- how to write data to CSV file using `to_csv()`, `to_excel()`, `to_json()`
+- how to create Series and DataFrames using `pd.Series()`, `pd.DataFrame()`
+- DataFrame attributes: `shape`, `columns`, `index`, `dtypes`, `info()`, `head()`, `tail()`, `describe()`
+- Series attributes: `index`, `values`, `dtype`, `shape`, `head()`, `tail()`, `describe()`
+---
