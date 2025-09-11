@@ -257,3 +257,9 @@
 - DataFrame attributes: `shape`, `columns`, `index`, `dtypes`, `info()`, `head()`, `tail()`, `describe()`
 - Series attributes: `index`, `values`, `dtype`, `shape`, `head()`, `tail()`, `describe()`
 ---
+
+## 🗓️ Day 18 - Learning Pandas (Part 2) (Sep 11, 2025)
+
+### ✅ Concepts Learned
+- Data selection and filtering using `loc[]`, `iloc[]`, boolean indexing
+---
