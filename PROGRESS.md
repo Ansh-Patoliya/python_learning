@@ -262,4 +262,5 @@
 
 ### ✅ Concepts Learned
 - Data selection and filtering using `loc[]`, `iloc[]`, boolean indexing
+- column operations: adding, removing, renaming columns
 ---
