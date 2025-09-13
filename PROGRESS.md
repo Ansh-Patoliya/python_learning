@@ -264,3 +264,9 @@
 - Data selection and filtering using `loc[]`, `iloc[]`, boolean indexing
 - column operations: adding, removing, renaming columns
 ---
+
+## 🗓️ Day 19 - Learning Pandas (Part 3) (Sep 12, 2025)
+
+### ✅ Concepts Learned
+- Handling missing data using `isnull()`, `notnull()`, `dropna()`, `fillna()`
+---
