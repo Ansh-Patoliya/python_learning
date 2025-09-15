@@ -279,3 +279,9 @@
 - Took a break from regular learning to refresh and recharge.
 ---
 
+## 🗓️ Day 22 - Learning Pandas (Part 4) (Sep 15, 2025)
+
+### ✅ Concepts Learned
+
+- Sorting using `sort_values()`, `sort_index()`
+---
