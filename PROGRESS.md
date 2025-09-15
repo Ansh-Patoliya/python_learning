@@ -270,3 +270,12 @@
 ### ✅ Concepts Learned
 - Handling missing data using `isnull()`, `notnull()`, `dropna()`, `fillna()`
 ---
+
+## 🗓️ Day 20 - Day 21 - Short break for Hackathon event (Sep 13 - 14, 2025)
+
+### ✅ Work Done
+- Participated in a Hackathon event to enhance coding skills and collaborate with others.
+- Gained experience in problem-solving and working under time constraints.
+- Took a break from regular learning to refresh and recharge.
+---
+
