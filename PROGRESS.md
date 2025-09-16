@@ -284,4 +284,5 @@
 ### ✅ Concepts Learned
 
 - Sorting using `sort_values()`, `sort_index()`
+- Ranking using `rank()`
 ---
