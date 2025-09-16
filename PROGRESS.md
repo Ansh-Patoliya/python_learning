@@ -293,4 +293,5 @@
 
 - Grouping data using `groupby()`
 - Aggregation functions: `sum()`, `mean()`, `count()`, `min()`, `max()`, `std()`, `var()`
+- Joining and merging DataFrames using `merge()`, `join()`, `concat()`
 ---
