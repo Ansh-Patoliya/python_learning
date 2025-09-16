@@ -61,7 +61,7 @@ I started this Python learning journey on August 25th, 2025, with a goal: build 
 <table align="center">
 <tr>
 <td align="center"><strong>📅 Current Day</strong></td>
-<td align="center">Day 22 (September 15, 2025)</td>
+<td align="center">Day 23 (September 16, 2025)</td>
 </tr>
 <tr>
 <td align="center"><strong>🎓 Completed Topics</strong></td>

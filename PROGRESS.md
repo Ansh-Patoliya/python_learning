@@ -286,3 +286,11 @@
 - Sorting using `sort_values()`, `sort_index()`
 - Ranking using `rank()`
 ---
+
+## 🗓️ Day 23 - Learning Pandas (Part 5) (Sep 16, 2025)
+
+### ✅ Concepts Learned
+
+- Grouping data using `groupby()`
+- Aggregation functions: `sum()`, `mean()`, `count()`, `min()`, `max()`, `std()`, `var()`
+---
