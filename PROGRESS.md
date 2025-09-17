@@ -287,11 +287,12 @@
 - Ranking using `rank()`
 ---
 
-## 🗓️ Day 23 - Learning Pandas (Part 5) (Sep 16, 2025)
+## 🗓️ Day 23 - Day 24 - Learning Pandas (Part 5) (Sep 16 - 17, 2025)
 
 ### ✅ Concepts Learned
 
 - Grouping data using `groupby()`
 - Aggregation functions: `sum()`, `mean()`, `count()`, `min()`, `max()`, `std()`, `var()`
 - Joining and merging DataFrames using `merge()`, `join()`, `concat()`
+- practice problems on all the above concepts
 ---

@@ -61,11 +61,11 @@ I started this Python learning journey on August 25th, 2025, with a goal: build 
 <table align="center">
 <tr>
 <td align="center"><strong>📅 Current Day</strong></td>
-<td align="center">Day 23 (September 16, 2025)</td>
+<td align="center">Day 24 (September 17, 2025)</td>
 </tr>
 <tr>
 <td align="center"><strong>🎓 Completed Topics</strong></td>
-<td align="center">Basics, Data Structures, Functions, OOP, File I/O, Exception Handling, Modules & Packages, Numpy, JSON, CSV</td>
+<td align="center">Basics, Data Structures, Functions, OOP, File I/O, Exception Handling, Modules & Packages, Numpy, JSON, CSV, Pandas</td>
 </tr>
 <tr>
 <td align="center"><strong>🚀 Completed Projects</strong></td>
@@ -73,7 +73,7 @@ I started this Python learning journey on August 25th, 2025, with a goal: build 
 </tr>
 <tr>
 <td align="center"><strong>📖 Ongoing Topic</strong></td>
-<td align="center">Pandas</td>
+<td align="center"></td>
 </tr>
 <tr>
 <td align="center"><strong>🎯 Goal</strong></td>
