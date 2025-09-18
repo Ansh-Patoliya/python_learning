@@ -4,7 +4,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.13.6-blue.svg)](https://python.org)
 [![Learning](https://img.shields.io/badge/Status-Learning-green.svg)](https://github.com/Ansh-Patoliya/Python_learning)
-[![Days](https://img.shields.io/badge/Day-24-orange.svg)](https://github.com/Ansh-Patoliya/Python_learning)
+[![Days](https://img.shields.io/badge/Day-25-orange.svg)](https://github.com/Ansh-Patoliya/Python_learning)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ansh%20Patoliya-blue.svg)](https://linkedin.com/in/ansh-patoliya)
 
 **🚀 Welcome to my coding adventure!**
@@ -61,7 +61,7 @@ I started this Python learning journey on August 25th, 2025, with a goal: build 
 <table align="center">
 <tr>
 <td align="center"><strong>📅 Current Day</strong></td>
-<td align="center">Day 24 (September 17, 2025)</td>
+<td align="center">Day 25 (September 18, 2025)</td>
 </tr>
 <tr>
 <td align="center"><strong>🎓 Completed Topics</strong></td>
@@ -73,7 +73,7 @@ I started this Python learning journey on August 25th, 2025, with a goal: build 
 </tr>
 <tr>
 <td align="center"><strong>📖 Ongoing Topic</strong></td>
-<td align="center"></td>
+<td align="center">Matplotlib</td>
 </tr>
 <tr>
 <td align="center"><strong>🎯 Goal</strong></td>
