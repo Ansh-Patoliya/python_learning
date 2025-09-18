@@ -296,3 +296,10 @@
 - Joining and merging DataFrames using `merge()`, `join()`, `concat()`
 - practice problems on all the above concepts
 ---
+
+## 🗓️ Day 25 - Learning Matplotlib (Part 1) (Sep 18, 2025)
+
+### ✅ Concepts Learned
+
+- Overview of Visualization and Matplotlib
+---
