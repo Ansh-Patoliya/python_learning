@@ -303,3 +303,15 @@
 
 - Overview of Visualization and Matplotlib
 ---
+
+## 🗓️ Day 26 - Learning Matplotlib (Part 2) (Sep 19, 2025)
+
+### ✅ Concepts Learned
+
+- Key terms: `Figure`, `Axes`, `Axis`, `Plot`, `Marker`, `Line`, `Legend`, `Title`, `Labels`, `Grid` , `Functions` , `Methods` , `Params` , `Kwargs` , `object-oriented api` , `DPI` , `Backend`
+- Creating basic plots using `plt.plot()`
+- Customizing plots with titles, labels, and legends using `plt.title()`, `plt.xlabel()`, `plt.ylabel()`, `plt.legend()`
+- Saving plots using `plt.savefig()`
+- Displaying plots using `plt.show()`
+- Understanding the difference between `plt` interface and `object-oriented` interface
+---
