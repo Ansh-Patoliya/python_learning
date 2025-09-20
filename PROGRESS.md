@@ -320,4 +320,6 @@
 
 ### ✅ Concepts Learned
 
+- Practice line plots using both `plt` 
+- seaborn library introduction
 ---
