@@ -315,3 +315,9 @@
 - Displaying plots using `plt.show()`
 - Understanding the difference between `plt` interface and `object-oriented` interface
 ---
+
+## 🗓️ Day 27 - Learning Matplotlib (Part 3) (Sep 20, 2025)
+
+### ✅ Concepts Learned
+
+---
