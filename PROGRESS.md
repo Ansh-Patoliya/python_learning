@@ -328,4 +328,8 @@
 
 ### ✅ Concepts Learned
 
+- bar charts using `plt.bar()`, `plt.barh()`
+- histograms using `plt.hist()`
+- scatter plots using `plt.scatter()`
+- pie charts using `plt.pie()`
 ---
