@@ -332,4 +332,6 @@
 - histograms using `plt.hist()`
 - scatter plots using `plt.scatter()`
 - pie charts using `plt.pie()`
+- subplots using `plt.subplot()`, `plt.subplots()`
+- object-oriented approach for all the above plots
 ---
