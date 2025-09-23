@@ -342,4 +342,5 @@
 
 - Created project notebook and loaded dataset using Pandas
 - create questions to be answered from the dataset
+- solve step 1 (Understanding the dataset) of EDA process
 ---
