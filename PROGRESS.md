@@ -335,3 +335,11 @@
 - subplots using `plt.subplot()`, `plt.subplots()`
 - object-oriented approach for all the above plots
 ---
+
+## 🗓️ Day 30 - Project: Netflix Data Analysis (Part 1) (Sep 23, 2025)
+
+### ✅ Work Done
+
+- Created project notebook and loaded dataset using Pandas
+- create questions to be answered from the dataset
+---
