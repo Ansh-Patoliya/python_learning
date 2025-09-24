@@ -342,5 +342,12 @@
 
 - Created project notebook and loaded dataset using Pandas
 - create questions to be answered from the dataset
-- solve step 1 (Understanding the dataset) of EDA process
+- solve step 1 half (Understanding the dataset) of EDA process
+---
+
+## 🗓️ Day 31 - Project: Netflix Data Analysis (Part 2) (Sep 24, 2025)
+
+### ✅ Work Done
+
+- solve step 1 complete (Understanding the dataset) of EDA process
 ---
