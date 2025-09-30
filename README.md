@@ -4,7 +4,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.13.6-blue.svg)](https://python.org)
 [![Learning](https://img.shields.io/badge/Status-Learning-green.svg)](https://github.com/Ansh-Patoliya/Python_learning)
-[![Days](https://img.shields.io/badge/Day-36-orange.svg)](https://github.com/Ansh-Patoliya/Python_learning)
+[![Days](https://img.shields.io/badge/Day-37-orange.svg)](https://github.com/Ansh-Patoliya/Python_learning)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ansh%20Patoliya-blue.svg)](https://linkedin.com/in/ansh-patoliya)
 
 **🚀 Welcome to my coding adventure!**
