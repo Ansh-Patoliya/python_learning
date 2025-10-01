@@ -4,7 +4,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.13.6-blue.svg)](https://python.org)
 [![Learning](https://img.shields.io/badge/Status-Learning-green.svg)](https://github.com/Ansh-Patoliya/Python_learning)
-[![Days](https://img.shields.io/badge/Day-37-orange.svg)](https://github.com/Ansh-Patoliya/Python_learning)
+[![Days](https://img.shields.io/badge/Day-38-orange.svg)](https://github.com/Ansh-Patoliya/Python_learning)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ansh%20Patoliya-blue.svg)](https://linkedin.com/in/ansh-patoliya)
 
 **🚀 Welcome to my coding adventure!**
@@ -61,7 +61,7 @@ I started this Python learning journey on August 25th, 2025, with a goal: build 
 <table align="center">
 <tr>
 <td align="center"><strong>📅 Current Day</strong></td>
-<td align="center">Day 36 (September 29, 2025)</td>
+<td align="center">Day 38 (October 1st, 2025)</td>
 </tr>
 <tr>
 <td align="center"><strong>🎓 Completed Topics</strong></td>
@@ -69,11 +69,11 @@ I started this Python learning journey on August 25th, 2025, with a goal: build 
 </tr>
 <tr>
 <td align="center"><strong>🚀 Completed Projects</strong></td>
-<td align="center">Expense Tracker Application, Sales Data Analysis with Numpy</td>
+<td align="center">Expense Tracker Application, Sales Data Analysis with Numpy , Netflix Data Analysis with Pandas and Matplotlib</td>
 </tr>
 <tr>
 <td align="center"><strong>📖 Ongoing Topic</strong></td>
-<td align="center">Netflix Data Analysis</td>
+<td align="center"></td>
 </tr>
 <tr>
 <td align="center"><strong>🎯 Goal</strong></td>

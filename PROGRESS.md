@@ -336,26 +336,16 @@
 - object-oriented approach for all the above plots
 ---
 
-[//]: # ()
-[//]: # (## 🗓️ Day 30 - Day 36 - Project: Netflix Data Analysis &#40;Sep 23 - 29, 2025&#41;)
+## 🗓️ Day 30 - Day 38 - Project: Netflix Data Analysis (Sep 23 - Oct 1, 2025)
 
-[//]: # ()
-[//]: # (### ✅ Work Done)
+### ✅ Work Done
 
-[//]: # ()
-[//]: # (- Created project notebook and loaded dataset using Pandas)
-
-[//]: # (- create questions to be answered from the dataset)
-
-[//]: # (- Data cleaning and preprocessing using Pandas)
-
-[//]: # (- Exploratory Data Analysis &#40;EDA&#41; using Pandas and Matplotlib)
-
-[//]: # (- Visualizations to answer the questions using Matplotlib)
-
-[//]: # (- Insights and conclusions from the analysis)
-
-[//]: # (- Polished outputs with formatted strings and rounding)
-
-[//]: # (---)
+- Created project notebook and loaded dataset using Pandas
+- create questions to be answered from the dataset
+- Data cleaning and preprocessing using Pandas
+- Exploratory Data Analysis (EDA) using Pandas and Matplotlib
+- Visualizations to answer the questions using Matplotlib
+- Insights and conclusions from the analysis
+- Polished outputs with formatted strings and rounding
+---
 
