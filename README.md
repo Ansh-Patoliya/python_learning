@@ -107,7 +107,7 @@ Find my comprehensive day-by-day learning journey here:
 
 I organize my work by day in folders like `Day-01/`, `Day-02/`, etc. Each folder contains:
 - 📝 Code examples and exercises
-- 🧪 Hands-on projects  
+- 🧪 Hands-on projects
 - 📖 Personal notes and insights
 
 > 📌 **Note:** I'll keep adding new day folders as I learn—stay tuned for more content!
@@ -190,3 +190,5 @@ I'd love to hear from you! Whether you have:
 *Made with 💖 and lots of ☕ by Ansh*
 
 </div>
+
+
